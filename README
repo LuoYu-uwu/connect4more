@@ -1,0 +1,13 @@
+# Tiktok Hackathon 2023
+
+Problem Statement : E-Commerce
+
+Tools used : React Native
+
+Short Abstract of the Porject: Implement a ranking system in TikTok where users can earn rewards by completing missions, such as inviting friends to use TikTok, making purchases, and more.
+
+Group members: 
+
+Explanation of the feature: When a user presses the crown button in the TikTok app's shop tab, they will be directed to the rewards page. On this page, the user can check their ranks and the number of points they have earned. Additionally, there is a feature that resembles a game of 'Snake and Ladder,' indicating the user's path and current position.
+
+Within the rewards page, users can tap the question mark button to access a description of how this feature works. There is also a 'Get more points' button that leads users to a page explaining various ways to earn more points.
