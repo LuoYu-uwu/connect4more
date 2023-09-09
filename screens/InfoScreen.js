@@ -46,7 +46,7 @@ function Tiers(props) {
                             </Text>
                             <Text>Cashback points can be used to deduct up to 60% of the total amount of products when you make a purchase.
                                 Cashback points will expire six months from the date they were earned, 
-                                any unused cashback points will be removed from you account.
+                                any unused cashback points will be removed from your account.
                             </Text>
                         </View>
                     </ScrollView>
